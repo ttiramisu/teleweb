@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /z/
+
+User-agent: *
+Allow: /
