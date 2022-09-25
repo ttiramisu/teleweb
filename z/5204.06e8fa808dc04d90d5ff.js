@@ -1,2 +1,0 @@
-(self.webpackChunktelegram_t=self.webpackChunktelegram_t||[]).push([[5204],{62437:e=>{e.exports=function(e){return{name:"Plain text",aliases:["text","txt"],disableAutodetect:!0}}}}]);
-//# sourceMappingURL=5204.06e8fa808dc04d90d5ff.js.map
