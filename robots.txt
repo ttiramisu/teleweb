@@ -1,6 +1,7 @@
 User-agent: *
 Disallow: /z/
 Disallow: /a/
+Disallow: /privacypolicy.html
 
 User-agent: *
 Allow: /
