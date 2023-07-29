@@ -4,5 +4,4 @@ Disallow: /a/
 Disallow: /privacypolicy.html
 Disallow: /beta/
 
-User-agent: *
 Allow: /
